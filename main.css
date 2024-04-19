@@ -8,19 +8,20 @@ header,
 section h2,
 section h3,
 form button {
-    font-family: "Bungee", sans-serif;
+    font-family: "Jersey 25", sans-serif;
+    font-size: 20px;
     font-weight: normal;
 }
 
 body, input, textarea {
-    font-family: "Roboto", sans-serif;
+    font-family: "Jersey 25", sans-serif;
 }
 
 
 header {
     padding: 16px 0; /*Espaçamento*/
-    background-color: rgb(8, 8, 66);
-    color: #fff;
+    background-color: rgb(16, 16, 19);
+    color: #fffbfb;
 }
 
 header nav li {
@@ -156,4 +157,6 @@ footer {
     background-color: rgb(8, 8, 66);
     color:#fff ;
     padding: 16px 0;
+
 }
+
